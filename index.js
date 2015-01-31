@@ -28,6 +28,11 @@ BaseTemplate.prototype = {
         log.verbose( 'not implemented' );
     },
 
+    changeForeign: function( table, keys, drop )
+    {
+        log.verbose( 'not implemented' );
+    },
+
     engine: function ( table, engines, drop )
     {
         log.verbose( 'not implemented' );
