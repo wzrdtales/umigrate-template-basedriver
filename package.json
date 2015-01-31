@@ -1,0 +1,29 @@
+{
+  "name": "umigrate-template-basedriver",
+  "version": "1.1.0",
+  "description": "The base driver for creating own umigrate template drivers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wzrdtales/umigrate-template-basedriver"
+  },
+  "keywords": [
+    "umigrate",
+    "migrate",
+    "migration",
+    "base",
+    "driver",
+    "basis",
+    "template",
+    "ultimate"
+  ],
+  "author": "Tobias Gurtzick <magic@wizardtales.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wzrdtales/umigrate-template-basedriver/issues"
+  },
+  "homepage": "https://github.com/wzrdtales/umigrate-template-basedriver"
+}
